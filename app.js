@@ -1,3 +1,4 @@
+// Este programa sirve para aprender a multiplicar
 const { crearArchivo, listartabla } = require(`./Multiplicar/multiplicacion`)
 const argumentos = require(`yargs`)
     .command(`listar`, `Imprime en la terminar la tabla de multiplicar`, {
